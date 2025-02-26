@@ -180,7 +180,6 @@ public class Calculator {
             operations.remove(indexMinus);
 
             Calculate(numbers, operations);
-            return;
         }
 
     }
